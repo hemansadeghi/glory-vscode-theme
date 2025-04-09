@@ -1,0 +1,16 @@
+
+# Node modules
+node_modules/
+
+# Logs
+*.log
+
+# VS Code workspace settings
+.vscode/
+
+# Build outputs
+*.vsix
+
+# System files
+.DS_Store
+Thumbs.db

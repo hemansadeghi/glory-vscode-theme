@@ -1,0 +1,56 @@
+{
+  "name": "glory-theme",
+  "displayName": "GLORY",
+  "description": "GLORY: Darker than your coffee, smoother than your commits. Switch between deep focus and smooth vibes. Not just a theme — a whole mood.",
+  "version": "1.4.0",
+  "publisher": "heman-sadeghi",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "homepage": "https://github.com/hemansadeghi/glory-vscode-theme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hemansadeghi/glory-vscode-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hemansadeghi/glory-vscode-theme/issues"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "images/icon.png",
+  "keywords": [
+    "dark theme",
+    "developer",
+    "focus",
+    "neon",
+    "coding",
+    "heman",
+    "GLORY",
+    "VS Code"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "GLORY Deep",
+        "uiTheme": "vs-dark",
+        "path": "./themes/GLORY Deep-color-theme.json"
+      },
+      {
+        "label": "GLORY Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/glory-dark-color-theme.json"
+      },
+      {
+        "label": "GLORY Soft",
+        "uiTheme": "vs-dark",
+        "path": "./themes/GLORY Soft-color-theme.json"
+      },
+      {
+        "label": "GLORY Persian",
+        "uiTheme": "vs-dark",
+        "path": "./themes/GLORY Persian-color-theme.json"
+      }
+    ]
+  }
+}
