@@ -2,7 +2,7 @@
   "name": "glory-theme",
   "displayName": "GLORY",
   "description": "GLORY: Darker than your coffee, smoother than your commits. Switch between deep focus and smooth vibes. Not just a theme — a whole mood.",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "publisher": "heman-sadeghi",
   "engines": {
     "vscode": "^1.99.0"
