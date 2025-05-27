@@ -1,43 +1,93 @@
-# GLORY Theme for VS Code
+<p align="center">
+  <img src="https://img.shields.io/github/license/hemansadeghi/glory-vscode-theme" alt="License" />
+  <img src="https://img.shields.io/badge/marketplace-GLORY-blueviolet?logo=visualstudiocode" alt="Marketplace" />
+  <img src="https://img.shields.io/visual-studio-marketplace/v/heman-sadeghi.glory-theme?label=version" alt="Version" />
+  <img src="https://img.shields.io/visual-studio-marketplace/i/heman-sadeghi.glory-theme?label=downloads" alt="Installs" />
+  <img src="https://img.shields.io/github/repo-size/hemansadeghi/glory-vscode-theme" alt="Repo Size" />
+</p>
 
-[![Version](https://img.shields.io/badge/version-1.4.0-blue.svg)](https://github.com/heman-sadeghi/glory-vscode-theme)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+<br/>
 
-**GLORY**: Darker than your coffee, smoother than your commits.
+<h1 align="center">🚀 GLORY — Dark Theme for VS Code</h1>
 
-Switch between **deep focus** and **smooth vibes** with three bold dark modes:  
-🐍 **GLORY Deep** — for night owls and hackers  
-🌙 **GLORY Soft** — for cozy focus with style  
-✨ **GLORY Persian** — Code like every line is a verse of a poem
-🌑 **GLORY Dark** — Minimalist contrast with neon highlights
----
+<p align="center">A bold, beautiful, and immersive dark theme family for Visual Studio Code.<br/>
+Darker than your coffee. Cleaner than your commit history. 😎</p>
 
-## Screenshots
-
-### 🐍 GLORY Deep (Python example)
-![GLORY Deep](images/screenshot.png)
-
-### 🌙 GLORY Soft (Python example)
-![GLORY Soft](images/Screenshot-soft.png)
-
-<!-- 
-### ✨ GLORY Persian
-![GLORY Persian](images/screenshot-persian.png)
--->
+<p align="center">
+  <a href="https://marketplace.visualstudio.com/items?itemName=heman-sadeghi.glory-theme">
+    <img src="https://img.shields.io/badge/Install%20from-Marketplace-007ACC?style=for-the-badge&logo=visualstudiocode" />
+  </a>
+  <a href="https://github.com/hemansadeghi/glory-vscode-theme/stargazers">
+    <img src="https://img.shields.io/github/stars/hemansadeghi/glory-vscode-theme?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
-## Installation
+## ✨ Variants
 
-1. Open **VS Code**
-2. Go to **Extensions** (Ctrl+Shift+X)
-3. Search for `GLORY Theme`
-4. Click **Install** and pick your vibe
+Choose your GLORY:
 
-Or get it directly from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=heman-sadeghi.glory-theme) 🚀
+| Variant            | Preview                        |
+|--------------------|--------------------------------|
+| 🐍 GLORY Deep       | ![](images/screenshot.png)     |
+| 🌙 GLORY Soft       | ![](images/Screenshot-soft.png) |
+| 🇮🇷 GLORY Persian    | _Coming soon..._               |
+| 🌑 GLORY Dark       | _Coming soon..._               |
+
+> _More flavors coming soon — stay tuned!_ 🎨
 
 ---
 
-## Made with 💻 by [heman sadeghi](https://github.com/hemansadeghi)
+## ⚙️ Installation
 
-_Not just a theme — a whole mood._
+### Method 1: VS Code Marketplace
+🔹 Click here → [GLORY on Marketplace](https://marketplace.visualstudio.com/items?itemName=heman-sadeghi.glory-theme)
+
+### Method 2: Inside VS Code
+
+1. Open **Extensions** sidebar (Ctrl+Shift+X)
+2. Search for `GLORY Theme`
+3. Click **Install**
+4. Select your favorite variant via **Command Palette** → `Preferences: Color Theme`
+
+---
+
+## 🌈 Why GLORY?
+
+- 🎨 Modern color palettes for deep focus and style
+- 🧠 Carefully tuned contrasts for readability & eye comfort
+- 💻 Designed for dark-mode lovers and night coders
+- ❤️ Built with love by developers, for developers
+
+---
+
+## 🧑‍💻 Author
+
+Created with ❤️ by [**Heman Sadeghi**](https://github.com/hemansadeghi)
+
+> "GLORY is not just a theme — it’s an attitude."  
+> _Coding is an art. Paint it with glory._
+
+---
+
+## 🤝 Contributions Welcome
+
+Pull requests and suggestions are welcome!  
+If you have new color variants or tweaks in mind, feel free to:
+
+- Fork the repo
+- Open a PR
+- Or start a discussion in [Issues](https://github.com/hemansadeghi/glory-vscode-theme/issues)
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE)
+
+---
+
+<p align="center">
+  <strong>💫 Code in style. Choose GLORY.</strong>
+</p>
